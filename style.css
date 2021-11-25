@@ -5,8 +5,14 @@ body {
     position: fixed;
     background-color: darkgreen;
     top: 0px;
+    width:1366px;
 }
 #titulo {
     color: white;
     text-align: center;
+}
+#minha_foto {
+    margin-top: 100px;
+    margin-left: 40%;
+    border-radius: 5px;
 }
