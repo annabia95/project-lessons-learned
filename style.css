@@ -11,6 +11,17 @@ body {
     color: white;
     text-align: center;
 }
+#navigation li {
+    margin-right: 100px;
+    list-style-type: none;
+    display: inline;
+    }
+#navigation li a{
+    color: white;
+    text-decoration: none;
+    position: fixed;
+    top: 40px;
+}
 #minha_foto {
     margin-top: 100px;
     margin-left: 40%;
