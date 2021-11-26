@@ -1,15 +1,18 @@
 body {
     background-color: rgb(253, 251, 251);
+    font-family:'Dancing Script', cursive;
 }
 #cabecalho {
     position: fixed;
     background-color: darkgreen;
     top: 0px;
     width:1366px;
+    height: 100px;
 }
 #titulo {
     color: white;
     text-align: center;
+    font-size: 30px;
 }
 #navigation li {
     margin-right: 200px;
@@ -20,10 +23,42 @@ body {
     color: white;
     text-decoration: none;
     position: fixed;
-    top: 40px;
+    top: 60px;
+    font-size: 20px;
 }
 #minha_foto {
     margin-top: 100px;
     margin-left: 40%;
     border-radius: 5px;
+}
+.lado-direito {
+    background-color: lightgrey;
+    margin-left: 0;
+    padding: 20px;
+    width: 400px;
+    display: inline-block;
+}
+.lado-esquerdo {
+    background-color: lightgrey;
+    margin-left: 0;
+    padding: 20px;
+    width: 400px;
+    display: inline-block;
+}
+#licoes_aprendidas li{
+    line-height:40px;
+    
+}
+#licoes_a_aprender li {
+    line-height:40px
+}
+#rodape {
+    background-color: darkgreen;
+    color: white;
+    padding: 3px;
+    border-radius: 5px;
+}
+#rodape p {
+    text-align: center;
+    line-height: 20px;
 }
