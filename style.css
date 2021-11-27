@@ -1,83 +1,94 @@
 body {
-    background-color: rgb(253, 251, 251);
-    font-family:'Dancing Script', cursive;
+  background-color: rgb(253, 251, 251);
+  font-family: "Dancing Script", cursive;
 }
 #cabecalho {
-    position: fixed;
-    background-color: darkgreen;
-    top: 0px;
-    width:1366px;
-    height: 110px;
+  position: fixed;
+  background-color: darkgreen;
+  top: 0px;
+  width: 1366px;
+  height: 110px;
 }
 #titulo {
-    color: white;
-    text-align: center;
-    font-size: 30px;
+  color: white;
+  text-align: center;
+  font-size: 30px;
 }
 #navigation li {
-    margin-right: 250px;
-    list-style-type: none;
-    display: inline;
-    }
-#navigation li a{
-    color: white;
-    text-decoration: none;
-    position: fixed;
-    top: 70px;
-    font-size: 20px;
+  margin-right: 250px;
+  list-style-type: none;
+  display: inline;
+}
+#navigation li a {
+  color: white;
+  text-decoration: none;
+  position: fixed;
+  top: 70px;
+  font-size: 20px;
 }
 #minha_foto {
-    margin-top: 100px;
-    margin-left: 39%;
-    border-radius: 5px;
+  margin-top: 100px;
+  margin-left: 39%;
+  border-radius: 5px;
 }
-.lado-esquerdo, .lado-direito {
-    display: inline-block;
-    width: 35%;
-    margin-right: 20px;
-    margin-left: 100px;
-    margin-bottom: 5px;
-    padding: 10px;
-    background-color: greenyellow;
-    border-radius: 10px;
+.lado-esquerdo,
+.lado-direito {
+  display: inline-block;
+  width: 35%;
+  margin-right: 20px;
+  margin-left: 100px;
+  margin-bottom: 5px;
+  padding: 20px;
+  background-color: greenyellow;
+  border-radius: 10px;
 }
-.lado-direito #aside h2 {
-    line-height: 50px;
-
+.lado-direito {
+  
 }
-#primeira_lista, #segunda_lista {
-    display: inline-block;
-    width: 30%;
-    margin-left: 190px;
+#primeira_lista,
+#segunda_lista {
+  display: inline-block;
+  width: 30%;
+  margin-left: 190px;
 }
-#licoes_aprendidas li{
-    line-height:40px;
-    font-size: 20px;
+#licoes_aprendidas li {
+  line-height: 40px;
+  font-size: 20px;
 }
 #licoes_a_aprender li {
-    line-height:40px;
-    font-size: 20px;
+  line-height: 40px;
+  font-size: 20px;
 }
-#first_article, #aside h2 {
-    text-align: center;
+#first_article,h2, p {
+  text-align: center;
+  line-height: 20px;
+}
+#aside, h2, p {
+  text-align: center;
+  line-height: 20px;
 }
 #rodape {
-    background-color: darkgreen;
-    color: white;
-    padding: 3px;
-    border-radius: 5px;
+  background-color: darkgreen;
+  color: white;
+  padding: 3px;
+  border-radius: 5px;
 }
 #rodape p {
-    text-align: center;
-    line-height: 20px;
+  text-align: center;
+  line-height: 25px;
 }
-table{
-    width: 60%;
-    margin-left: 170px;
-    margin-top: 40px;
-    margin-bottom: 40px;
+table {
+  width: 80%;
+  margin-left: 140px;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
-table, th, td {
-    border: 1px solid greenyellow;
-    text-align: center;
+caption {
+  text-align: center;
+}
+table,
+th,
+td {
+  border: 1px solid greenyellow;
+  text-align: center;
 }
