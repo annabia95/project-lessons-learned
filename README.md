@@ -1,10 +1,26 @@
 Este projeto contém os requisitos realizados por _[Anna Beatriz Garcia Trajano de Sá](www.linkedin.com/in/anna-beatriz-trajano-de-sá)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
-_"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
+# Project Lessons Learned
 
-O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
+Desenvolvi um site que continha uma série de informações sobre o que aprendi na Trybe ao longo dos primeiros blocos da Trybe. O site contém elementos posicionados e estilizados e além disto, a semântica apropriada para que seja acessível e melhor ranqueado.
 
-# Boas vindas ao repositório do projeto Lições Aprendidas!
+Veja o exemplo a seguir do layout do projeto!
+
+
+## Demo
+
+Insert gif or link to demo
+
+## Habilidades Desenvolvidas
+
+Neste projeto, eu desenvolvi as seguintes habilidades:
+
+* Utilizar _HTML_ para construir páginas WEB.
+* Utilizar _HTML_ semântico para tornar a página mais acessível e melhor ranqueada.
+* Utilizar _CSS_ para adicionar estilo e posicionar elementos.
+
+
+## Escopo do Projeto
 
   - [Lista de requisitos](#lista-de-requisitos)
   - [x] [1. Adicione uma cor de fundo específica para a página](#1-adicione-uma-cor-de-fundo-específica-para-a-página)
@@ -24,10 +40,3 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   - [x] [14. Altere atributos relacionados as fontes](#14-altere-atributos-relacionados-as-fontes)
   - [x] [15. Posicione o seu artigo e a seção sobre aprendizados um ao lado do outro](#15-posicione-o-seu-artigo-e-a-seção-sobre-aprendizados-um-ao-lado-do-outro)
 
-## Habilidades
-
-Neste projeto, você será capaz de:
-
-* Utilizar _HTML_ para construir páginas WEB.
-* Utilizar _HTML_ semântico para tornar sua página mais acessível e melhor ranqueada.
-* Utilizar _CSS_ para adicionar estilo e posicionar elementos.
