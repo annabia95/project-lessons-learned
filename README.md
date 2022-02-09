@@ -4,12 +4,6 @@ Este projeto contém os requisitos realizados por _[Anna Beatriz Garcia Trajano 
 
 Desenvolvi um site que continha uma série de informações sobre o que aprendi na Trybe ao longo dos primeiros blocos da Trybe. O site contém elementos posicionados e estilizados e além disto, a semântica apropriada para que seja acessível e melhor ranqueado.
 
-Veja o exemplo a seguir do layout do projeto!
-
-
-## Demo
-
-Insert gif or link to demo
 
 ## Habilidades Desenvolvidas
 
