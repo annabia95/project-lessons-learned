@@ -7,7 +7,7 @@ Desenvolvi um site que continha uma série de informações sobre o que aprendi 
 
 ## Habilidades Desenvolvidas
 
-Neste projeto, eu desenvolvi as seguintes habilidades:
+Neste projeto, desenvolvi as seguintes habilidades:
 
 * Utilizar _HTML_ para construir páginas WEB.
 * Utilizar _HTML_ semântico para tornar a página mais acessível e melhor ranqueada.
