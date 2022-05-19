@@ -4,6 +4,22 @@ Este projeto contém os requisitos realizados por _[Anna Beatriz Garcia Trajano 
 
 Desenvolvi um site que continha uma série de informações sobre o que aprendi na Trybe ao longo dos primeiros blocos da Trybe. O site contém elementos posicionados e estilizados e além disto, a semântica apropriada para que seja acessível e melhor ranqueado.
 
+## Instalação do projeto localmente:
+ 
+Após cada um dos passos, haverá um exemplo do comando a ser digitado para fazer o que está sendo pedido, caso tenha dificuldades e o exemplo não seja suficiente, não hesite em me contatar em _annagarcia@id.uff.br_ 
+
+1. Abra o terminal e crie um diretório no local de sua preferência com o comando **mkdir**:
+```javascript
+  mkdir projetos
+```
+
+2. Entre no diretório que acabou de criar e depois clone o projeto:
+```javascript
+  cd projetos
+  git clone git@github.com:annabia95/project-lessons-learned.git
+```
+
+Para evitar problemas de CORS, utilize a extensão Live Server do VSCode para conseguir carregar todos os assets externos, com o servidor rodando, abra o arquivo index.html, não é necessário rodar um npm install para ver a aplicação
 
 ## Habilidades Desenvolvidas
 
